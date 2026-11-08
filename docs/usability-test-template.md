@@ -31,8 +31,8 @@ Recruit 3–5 volunteers (or the number required by the marking rubric). Ask eac
 ## Additional manual checks
 - Keyboard only: Tab, Shift+Tab, Enter, Space
 - Screen reader announcements and form errors
-- Desktop and mobile viewport layouts
+- Desktop and mobile layouts
 - Browser checks: Chrome, Firefox, Safari and Edge where available
-- Inspect console and run Lighthouse if available
 
-Do not report invented participant comments, measurements or successful checks. Add dates and actual evidence after testing.
+
+
