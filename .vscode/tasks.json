@@ -1,0 +1,1 @@
+{"version":"2.0.0","tasks":[{"label":"Start local prototype server","type":"shell","command":"python3 -m http.server 5500","isBackground":true,"problemMatcher":[],"options":{"cwd":"${workspaceFolder}"}}]}
