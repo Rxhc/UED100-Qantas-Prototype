@@ -1,6 +1,6 @@
 # UED100 Assessment 2 — Qantas-inspired flight booking UX prototype
 
- Uploading this to GitHub so just noting this is not the official Qantas website, not affiliated with Qantas, and not connected to flight or payment services. All fare names, amounts, flight times and booking states are illustrative. Original SVG artwork is supplied locally.
+ Uploading this to GitHub, so just noting that this is not the official Qantas website, is not affiliated with Qantas, and is not connected to flight or payment services. All fare names, amounts, flight times, and booking states are illustrative. Original SVG artwork is supplied locally.
 
 ## How to run in Visual Studio Code
 
@@ -8,11 +8,11 @@
 2. Install the **Live Server** VS Code extension (optional but recommended).
 3. Right-click `index.html` → **Open with Live Server**, or open `index.html` directly in your browser.
 4. Internet access is needed only for the Bootstrap CDN stylesheet; the custom styles and JavaScript are local.
-5. Open `wireframes/wireframes.html` to view annotated low-fidelity planning layouts. Recreate these in **Figma or Adobe XD** and capture wireframe screenshots for the assessment, as the brief requires that design tool explicitly.
+5. Open `wireframes/wireframes.html` to view annotated low-fidelity planning layouts.
 
 ## Features
 
-- Choose Return or One way and set route, dates, passenger count, and cash or points mode.
+- Choose Return or One-way and set route, dates, passenger count, and cash or points mode.
 - Select **Search flights**. Invalid inputs show contextual messages; valid inputs display **sample** fare options.
 - Select a fare, enter **fictional** traveller details, review your trip, and complete the demonstration (no purchase).
 - Use the mobile-width browser inspector to test the responsive navigation.
