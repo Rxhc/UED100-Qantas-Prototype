@@ -7,7 +7,7 @@
 1. Extract the ZIP and open the `Qantas_UED100_Prototype` folder in VS Code.
 2. Install the **Live Server** VS Code extension (optional but recommended).
 3. Right-click `index.html` → **Open with Live Server**, or open `index.html` directly in your browser.
-4. Try the booking flow and contact form. Internet access is needed only for the Bootstrap CDN stylesheet; the custom styles and JavaScript are local.
+4. Internet access is needed only for the Bootstrap CDN stylesheet; the custom styles and JavaScript are local.
 5. Open `wireframes/wireframes.html` to view annotated low-fidelity planning layouts. Recreate these in **Figma or Adobe XD** and capture wireframe screenshots for the assessment, as the brief requires that design tool explicitly.
 
 ## Features
