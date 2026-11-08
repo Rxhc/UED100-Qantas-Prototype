@@ -49,4 +49,4 @@ The UI is not a production-ready airline booking service. Client-side validation
 
 ## Interactive Figma mockup
 
-[Open the Qantas booking prototype in Figma](https://www.figma.com/design/DKzlLN9UVIOio3WbTKYgqR) — editable wireframes with linked desktop and mobile booking journeys (7 screens, 11 navigation connections). Use Figma's **Present** mode to try the interactions. This is separate from the working HTML/CSS/JavaScript website.
+[Open the Qantas booking prototype in Figma](https://www.figma.com/design/DKzlLN9UVIOio3WbTKYgqR) — This has editable wireframes with linked desktop and mobile booking journeys (7 screens, 11 navigation connections). Use Figma's Present mode to try the interactions. This is separate from the working HTML/CSS/JavaScript website.
