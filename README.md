@@ -47,3 +47,6 @@ The UI is not a production-ready airline booking service. Client-side validation
 3. Right-click `index.html` and select **Open with Live Server**. Your browser should open at `http://127.0.0.1:5500/`.
 4. If you don't use Live Server, open the VS Code Terminal and run `python3 -m http.server 5500`, then visit `http://localhost:5500`.
 
+## Interactive Figma mockup
+
+[Open the Qantas booking prototype in Figma](https://www.figma.com/design/DKzlLN9UVIOio3WbTKYgqR) — editable wireframes with linked desktop and mobile booking journeys (7 screens, 11 navigation connections). Use Figma's **Present** mode to try the interactions. This is separate from the working HTML/CSS/JavaScript website.
