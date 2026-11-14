@@ -8,7 +8,7 @@
 2. Install the **Live Server** VS Code extension (optional but recommended).
 3. Right-click `index.html` → **Open with Live Server**, or open `index.html` directly in your browser.
 4. Internet access is needed only for the Bootstrap CDN stylesheet; the custom styles and JavaScript are local.
-5. Open `wireframes/wireframes.html` to view annotated low-fidelity planning layouts.
+5. Open `wireframes/wireframes.html` to view planning layouts.
 
 ## Features
 
@@ -40,13 +40,7 @@ Qantas_UED100_Prototype/
 The UI is not a production-ready airline booking service. Client-side validation can be bypassed, and real deployments would require validated server APIs, secure HTTP-only cookies, CSRF protection, HTTPS, rate limiting, secure payment integrations, appropriate CSP and error handling. The simulated session timer is not authentication security. No user input or PII is intentionally saved or transmitted by the custom app JavaScript.
 
 
-## Open in Visual Studio Code
-
-1. Extract this ZIP, then select **File → Open Folder…** and open `Qantas_UED100_Prototype`.
-2. VS Code may suggest the **Live Server** extension from `.vscode/extensions.json`. Install it if needed.
-3. Right-click `index.html` and select **Open with Live Server**. Your browser should open at `http://127.0.0.1:5500/`.
-4. If you don't use Live Server, open the VS Code Terminal and run `python3 -m http.server 5500`, then visit `http://localhost:5500`.
 
 ## Interactive Figma mockup
 
-[Open the Qantas booking prototype in Figma](https://www.figma.com/design/DKzlLN9UVIOio3WbTKYgqR) — This has editable wireframes with linked desktop and mobile booking journeys (7 screens, 11 navigation connections). Use Figma's Present mode to try the interactions. This is separate from the working HTML/CSS/JavaScript website.
+(https://www.figma.com/design/DKzlLN9UVIOio3WbTKYgqR) — This is my editable wireframe with linked desktop and mobile booking journeys (7 screens, 11 navigation connections). Use Figma's Present mode to try the interactions. This is separate from the working HTML/CSS/JavaScript website.
